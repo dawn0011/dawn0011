@@ -73,18 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Daniyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawn0011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawn0011&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Open to Opportunities
 
 I'm actively looking for **remote full-stack and AI engineering roles**. If you're building something interesting with AI or need a senior engineer who can own delivery end-to-end, let's talk.
